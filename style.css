@@ -1,0 +1,111 @@
+/* General styles */
+body {
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+line-height: 1.5;
+background-color: #f7f7f7;
+}
+
+h1, h2, h3 {
+font-weight: bold;
+}
+
+a {
+color: #007bff;
+}
+
+/* Section styles */
+.section {
+padding: 40px;
+margin-bottom: 40px;
+background-color: #fff;
+border-radius: 5px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+font-size: 24px;
+text-transform: uppercase;
+margin-bottom: 20px;
+}
+
+/* Skills section styles */
+.skills-section {
+background-color: #007bff;
+color: #fff;
+padding: 40px;
+}
+
+.skill-set {
+margin-bottom: 20px;
+}
+
+.skill-set h3 {
+font-size: 20px;
+margin-bottom: 10px;
+}
+
+.skill-set ul {
+margin: 0;
+padding: 0;
+}
+
+.skill-set li {
+margin-bottom: 5px;
+}
+
+/* Degree section styles */
+.degree-section {
+background-color: #f4f4f4;
+padding: 50px 0;
+}
+
+.degree {
+background-color: #fff;
+padding: 40px;
+border-radius: 5px;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
+
+.degree h3 {
+font-size: 32px;
+margin-bottom: 10px;
+}
+
+.degree p {
+font-size: 24px;
+margin-bottom: 20px;
+}
+
+/* Certifications section styles */
+.certifications {
+margin-top: 40px;
+}
+
+.certifications h3 {
+font-size: 24px;
+margin-bottom: 20px;
+}
+
+.certifications ul {
+margin: 0;
+padding: 0;
+}
+
+.certifications li {
+font-size: 18px;
+margin-bottom: 10px;
+}
+
+/* Footer styles */
+.footer {
+background-color: #212529;
+color: #fff;
+padding: 40px;
+text-align: center;
+}
+
+.footer p {
+margin-bottom: 0;
+}
