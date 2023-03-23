@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f7f7f7;
+    padding-top: 60px;
+  }
+  a {
+    color: #007bff;
+  }
+  footer {
+    background-color: #212529;
+    color: #fff;
+  }
+  .Section {
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .Section-title {
+    text-transform: uppercase;
+  }
+  .Skill-set {
+    margin-bottom: 20px;
+  }
+  .Certifications {
+    margin-top: 40px;
+  }
+  h1, h2, h3 {
+    font-weight: bold;
+  }
+  .Degree {
+    text-align: center;
+  }
